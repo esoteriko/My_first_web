@@ -1,0 +1,35 @@
+.html,body{
+    background-color:#f1f7f7;
+    margin:0;
+}
+.logo{
+    width:111;
+    height:95;
+    text-align: left;
+    margin: 15px 0px 15px 20px;
+}
+.title{
+    font-size:40px;
+    color: #3B6A6A;
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+.box{
+    margin-top: 0px; 
+    background-color:#3B6A6A;
+}
+.registro{
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+}
+.letras{
+    font-size: 20px; 
+    color: #516b6c;
+}
+.tabla-registro{
+    background-color:#D1DFDE;
+    text-align: center;
+}
+.salir{
+    margin: 100px 10px 10px 60px;
+}
